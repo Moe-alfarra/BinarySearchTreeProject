@@ -1,0 +1,14 @@
+NUMBER_OF_WORDS
+IS_EMPTY
+CONTAIN cabassou
+FIND CABASSOU
+FIND cabassou
+REPLACE Earl: (n.) A nobleman of England ranking below a marquis, and above a viscount.
+CONTAIN Earl
+FIND EARL
+ADD Earl
+NUMBER_OF_WORDS
+FIND Earl
+REPLACE Earl: (n.) A nobleman of England ranking below a marquis, and above a viscount.
+FIND Earl
+PRINT
